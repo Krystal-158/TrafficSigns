@@ -1,0 +1,1 @@
+python main.py --data=/scratch/yb1059/cv/dataset --epochs=1 --log-interval=10
